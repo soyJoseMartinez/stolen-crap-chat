@@ -20,3 +20,11 @@ Every chat you create is a txt file that store the messages on clear text on the
 ## DISCLAIMER
 
 This is a crap shit chat made in about an hour or less
+
+
+
+
+
+
+_________________________________________________________________________________________
+## Hello I just took it to experiment from naim-prog's projects and won't change a readme
